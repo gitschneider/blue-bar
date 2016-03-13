@@ -1,3 +1,14 @@
+<?php
+/*
+ * ========================================================================
+ * Blue Bar theme for Anchor CMS
+ * https://github.com/schnaidar/blue-bar
+ * ========================================================================
+ * Copyright 2016 Marcel Schneider
+ * Licensed under MIT (https://github.com/schnaidar/blue-bar/blob/master/LICENSE)
+ * ========================================================================
+ */
+?>
 <?php theme_include('header'); ?>
 
 	<div id="main-content">
