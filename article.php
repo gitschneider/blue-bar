@@ -17,7 +17,7 @@
 			<h5 class="article-meta"><em class="small">Written by <?php echo article_author(); ?>
 					on <?php echo article_date(); ?></em></h5>
 			<hr>
-			<?php echo article_markdown(); ?>
+			<?php echo article_html(); ?>
 		</article>
 	</section>
 </div>
