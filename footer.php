@@ -30,5 +30,6 @@
 <script src="<?php echo theme_url('js/bootstrap.min.js'); ?>"></script>
 <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
 <script src="<?php echo theme_url('js/ie10-viewport-bug-workaround.js'); ?>"></script>
+<?php theme_include('custom_include'); ?>
 </body>
 </html>
