@@ -1,0 +1,5 @@
+Theme name:     Blue Bar
+Description:    Simple flat theme, inspired by dark-bar
+Author name:    Marcel Schneider
+Author site:    https://webschneider.org
+License:        http://licence.visualidiot.com
